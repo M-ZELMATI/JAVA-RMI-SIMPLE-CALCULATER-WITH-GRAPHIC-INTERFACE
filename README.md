@@ -33,7 +33,7 @@ __Les classes et les interfaces utilisés dans une application java RMI__<br/>
 ![image description](assets/5.PNG)<br/>
 ![image description](assets/6.PNG)<br/>
 
-##Conclusion :
+## Conclusion :<br/>
 Comme nous venons de le voir, RMI permet aux objets Java et à leurs méthodes d’une application répartie de devenir distants relativement facilement.
 
 
